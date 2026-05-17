@@ -95,6 +95,15 @@ health ecosystems.
 | Compliance Officer (GDPR/MHRA/NHS Digital) | Data Protection & Clinical Governance | **C** |
 | End Users (Clinicians / Patients / Caregivers) | Alpha/Beta Testing & Feedback | **I** |
 
+### RACI Legend
+
+| Code | Role | Description |
+| :---: | :--- | :--- |
+| **A** | Accountable | Final decision authority and project owner |
+| **R** | Responsible | Executes the work and delivers outputs |
+| **C** | Consulted | Subject matter expert providing vital input |
+| **I** | Informed | Kept up to date on progress and decisions |
+
 ---
 
 ## 8. High-Level Deliverables
