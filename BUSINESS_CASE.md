@@ -1,4 +1,5 @@
-Med-Check AI 
+# Med-Check AI (Working Title)
+
 ## 📈 Business Case (The Strategic Justification)
 
 ### 📊 Market Opportunity
