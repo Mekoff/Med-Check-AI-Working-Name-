@@ -86,14 +86,14 @@ health ecosystems.
 
 ## 7. Stakeholders
 
-| Stakeholder | Role | RACI |
-| :--- | :--- | :---: |
-| Dr. Felix Chukwuemeka Offor (MD, MBA) | Executive Sponsor / Product Owner | **A** |
-| Lead Developer (AI/Software Architect) | Core Technical Engineering | **R** |
-| Pharmacist SME (Clinical Consultant) | Medical Database & Interaction Validation | **C** |
-| UX/UI Designer (Patient Experience) | Mobile Interface & Accessibility Design | **R** |
-| Compliance Officer (GDPR/MHRA/NHS Digital) | Data Protection & Clinical Governance | **C** |
-| End Users (Clinicians / Patients / Caregivers) | Alpha/Beta Testing & Feedback | **I** |
+| Stakeholder | Credentials | Role / Specialization | Project Assignment | RACI |
+| :--- | :--- | :--- | :--- | :---: |
+| **Project Lead** | Dr. Felix Chukwuemeka Offor (MD, MBA) | Executive Sponsor | Product Owner & decision authority | **A** |
+| **Lead Developer** | AI / Software Architect | Technical Engineering | Core platform & AI architecture | **R** |
+| **Pharmacist (SME)** | Clinical Consultant | Clinical Advisory | Medical database & interaction validation | **C** |
+| **UX/UI Designer** | Patient Experience Specialist | Interface Design | Mobile UI & accessibility design | **R** |
+| **Compliance Officer** | GDPR / MHRA / NHS Digital | Governance & Regulatory | Data protection & clinical governance | **C** |
+| **End Users** | Clinicians / Patients / Caregivers | User Community | Alpha/Beta testing & feedback loop | **I** |
 
 ### RACI Legend
 
@@ -124,7 +124,7 @@ health ecosystems.
 
 - RxNav API remains publicly accessible and maintains current data standards
 - Regulatory guidance from MHRA and NHS Digital remains stable during development
-- Beta users (patients/caregivers) can be recruited through existing clinical networks
+- Beta users (clinicians/patients/caregivers) can be recruited through existing clinical networks
 
 ### Constraints
 
